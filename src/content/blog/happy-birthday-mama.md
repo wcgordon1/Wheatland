@@ -1,13 +1,13 @@
 ---
 author: Will Gordon
-pubDatetime: 2023-09-22T15:22:00Z
+pubDatetime: 2023-09-22T23:22:00Z
 title: Happy Birthday Mama!
 postSlug: happy-birthday-susan
 featured: true
 draft: false
 tags:
   - birthday
-ogImage: ""
+ogImage: https://res.cloudinary.com/dsroesejf/image/upload/v1695446838/Bill_Suz_l5ddkk.jpg
 description: To the best Mom in the whole wide world and the entire Universe!!!!
 ---
 
