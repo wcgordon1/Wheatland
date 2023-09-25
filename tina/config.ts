@@ -33,6 +33,12 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "datetime",
+            name: "posted",
+            label: "Date Posted",
+            required: true,
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body",
