@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "SusanCondrey.com",
   desc: "We'll update this later!!",
   title: "Dr. Condrey",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "image.jpg",
   lightAndDarkMode: true,
   postPerPage: 5,
 };
@@ -15,7 +15,7 @@ export const LOCALE = ["en-EN"]; // set to [] to use the environment default
 export const LOGO_IMAGE = {
   enable: false,
   svg: true,
-  width: 216,
+  width: 256,
   height: 46,
 };
 
